@@ -1,5 +1,9 @@
 # bulksql
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/golang-standards/project-layout?style=flat-square)](https://github.com/heebin2/bulksql)
+[![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://github.com/heebin2/bulksql)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/golang-standards/project-layout)](https://github.com/heebin2/bulksql)
+
 Effective control of sql strings for bulk sql operations.
 
 bulksql automatically increments the argument.
